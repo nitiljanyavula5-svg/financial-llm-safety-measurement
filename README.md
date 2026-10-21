@@ -58,7 +58,7 @@ Paths below are inside the extracted `Finance_LLM_Reproducibility_Code/` directo
 | Full original L2 intervals | `results/results.json` under `primary_effects` |
 | Full exploratory intervals | `extensions/attachment_probe/results/results.json` |
 | Clock/schema follow-ups | `extensions/instrument_followup/results/` |
-| Admission diagnostics | `extensions/offline_diagnostics/results.json`, `admission_recomputation.json`, `extensions/whitelist_diagnostic/results.json` |
+| Admission diagnostics | `extensions/offline_diagnostics/results.json`, `extensions/offline_diagnostics/admission_recomputation.json`, `extensions/whitelist_diagnostic/results.json` |
 | Derived outcome records | `outcomes/original.jsonl`, `outcomes/attachment.jsonl`, `outcomes/instrument.jsonl`, `extensions/whitelist_diagnostic/decisions.jsonl` |
 | Bundled paper and source | `manuscript/`, `release/IEEE_LLM_Finance_2026_FINAL_SUBMISSION.pdf` (C12 snapshot; see version note below) |
 
